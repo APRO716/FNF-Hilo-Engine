@@ -154,8 +154,8 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			25);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 15;
-		option.minValue = 10;
-		option.maxValue = 25;
+		option.minValue = 5;
+		option.maxValue = 50;
 		addOption(option);
 		
 		var option:Option = new Option('Sick! Hit Window',
@@ -165,8 +165,8 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			45);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 15;
-		option.minValue = 15;
-		option.maxValue = 45;
+		option.minValue = 10;
+		option.maxValue = 100;
 		addOption(option);
 
 		var option:Option = new Option('Good Hit Window',
@@ -177,7 +177,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 30;
 		option.minValue = 15;
-		option.maxValue = 90;
+		option.maxValue = 150;
 		addOption(option);
 
 		var option:Option = new Option('Bad Hit Window',
@@ -187,8 +187,8 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			135);
 		option.displayFormat = '%vms';
 		option.scrollSpeed = 60;
-		option.minValue = 15;
-		option.maxValue = 135;
+		option.minValue = 20;
+		option.maxValue = 166;
 		addOption(option);
 
 		var option:Option = new Option('Safe Frames',
@@ -198,7 +198,7 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			10);
 		option.scrollSpeed = 5;
 		option.minValue = 2;
-		option.maxValue = 10;
+		option.maxValue = 20;
 		option.changeValue = 0.1;
 		addOption(option);
 
