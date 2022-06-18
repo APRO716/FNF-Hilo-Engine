@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hilo mod lol.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hiro idle0000" x="2106" y="0" width="482" height="882" frameX="-1" frameY="-10" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0001" x="2588" y="0" width="482" height="882" frameX="-1" frameY="-10" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0002" x="2588" y="0" width="482" height="882" frameX="-1" frameY="-10" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0003" x="3070" y="0" width="483" height="884" frameX="0" frameY="-5" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0004" x="3553" y="0" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0005" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0006" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0007" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0008" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0009" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0010" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0011" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0012" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro idle0013" x="0" y="941" width="483" height="889" frameX="0" frameY="0" frameWidth="483" frameHeight="892"/>
+	<SubTexture name="hiro up0000" x="1709" y="941" width="483" height="1007" frameX="0" frameY="0" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0001" x="1709" y="941" width="483" height="1007" frameX="0" frameY="0" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0002" x="1709" y="941" width="483" height="1007" frameX="0" frameY="0" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0003" x="2192" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0004" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0005" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0006" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0007" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0008" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0009" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0010" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0011" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0012" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0013" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0014" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hiro up0015" x="2676" y="941" width="484" height="993" frameX="0" frameY="-7" frameWidth="484" frameHeight="1007"/>
+	<SubTexture name="hirodown0000" x="0" y="0" width="493" height="819" frameX="0" frameY="-6" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0001" x="0" y="0" width="493" height="819" frameX="0" frameY="-6" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0002" x="0" y="0" width="493" height="819" frameX="0" frameY="-6" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0003" x="0" y="0" width="493" height="819" frameX="0" frameY="-6" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0004" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0005" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0006" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0007" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0008" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0009" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0010" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="hirodown0011" x="493" y="0" width="492" height="825" frameX="-1" frameY="0" frameWidth="493" frameHeight="825"/>
+	<SubTexture name="left hiro0000" x="985" y="0" width="559" height="936" frameX="-3" frameY="-3" frameWidth="562" frameHeight="941"/>
+	<SubTexture name="left hiro0001" x="985" y="0" width="559" height="936" frameX="-3" frameY="-3" frameWidth="562" frameHeight="941"/>
+	<SubTexture name="left hiro0002" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0003" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0004" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0005" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0006" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0007" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0008" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0009" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0010" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0011" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0012" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0013" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="left hiro0014" x="1544" y="0" width="562" height="941"/>
+	<SubTexture name="right hiro0000" x="483" y="941" width="614" height="938" frameX="0" frameY="-2" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0001" x="483" y="941" width="614" height="938" frameX="0" frameY="-2" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0002" x="483" y="941" width="614" height="938" frameX="0" frameY="-2" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0003" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0004" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0005" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0006" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0007" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0008" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0009" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0010" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0011" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0012" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0013" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+	<SubTexture name="right hiro0014" x="1097" y="941" width="612" height="942" frameX="-1" frameY="0" frameWidth="614" frameHeight="942"/>
+</TextureAtlas>
