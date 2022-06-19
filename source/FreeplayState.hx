@@ -371,6 +371,8 @@ class FreeplayState extends MusicBeatState
 				}
 				if(!ClientPrefs.characterselect){
 					LoadingState.loadAndSwitchState(new PlayState(), true);
+					destroyFreeplayVocals(); //im dumb lol
+                    			FlxG.sound.music.volume = 0;
 				}
 				FlxG.sound.play(Paths.sound('confirmMenu'), 0.7);
 				//MusicBeatState.switchState(new CharSelectState());
