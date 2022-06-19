@@ -13,18 +13,18 @@ Feature of Hilo Engine :D
 * Green font color Options menu
 * New Pause menu
 * Better Icon & HP Bar (credit to Cassette Girl mod)
+* Show "Combo" Picture like FNF Week 8 Leak
+* Hide Background & Hide Character Option Everything is Black
+* Result Screen like Kade Engine (i want to be like fnf online but im dumb lol) **W.I.P**
+* Character selection **Buggy**
+* New cool font **100% FINISHED**
+* HP % **100% FINISHED**
 
 **Upcoming Feature NOT RELEASED YET (REBOOT)** Be Patient It's worth :)
-* Result Screen like Kade Engine (i want to be like fnf online but im dumb lol) **10%**
-* Show "Combo" Picture like FNF Week 8 Leak **95%**
-* Hide Background & Hide Character Option Everything is Black **100% FINISHED**
 * New pausesubState **0% (i wanna make new one)**
-* Character selection **40% make more easier**
 * Our Own Design Logo of Engine (This count?) **0% LOL**
 * Softcoded the Judgement selection? **0%**
 * miss popup **95%** // it crash omg ohno :(
-* New cool font **100% FINISHED**
-* HP % **100% FINISHED**
 * cool 
 * // apro plz stop add more >:( that's spoiler
 * //                                --hiro
