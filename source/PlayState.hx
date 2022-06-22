@@ -3888,10 +3888,13 @@ class PlayState extends MusicBeatState
 				score += Math.ceil(500 * ((135 - msforscorelol) / 135));
 				//totalNotesHit += 1;
 				epics++;
-				if(noteDiff < 10){
+				if(noteDiff < 5){
                 	totalNotesHit += 1;
 				}
-                if(noteDiff >= 10){
+                if(noteDiff >= 5 && noteDiff < 10){
+                	totalNotesHit += (1 - (noteDiff / 50000));
+				}
+				if(noteDiff >= 10){
                 	totalNotesHit += (1 - (noteDiff / 25000));
 				}
 			}
