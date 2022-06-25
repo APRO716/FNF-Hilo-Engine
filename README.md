@@ -1,4 +1,4 @@
-THIS ENGINE IS DEAD & CANCELLED BECAUSE OF MANY BUG & USE OKD PSYCH ENGINE (WE WELL REBOOT THIS ENGINE SOON)
+THIS ENGINE IS DEAD & CANCELLED BECAUSE OF MANY BUG & USE OLD PSYCH ENGINE (WE WELL REBOOT THIS ENGINE SOON)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 # Friday Night Funkin' Hilo Engine :)
 Feature of Hilo Engine :D
